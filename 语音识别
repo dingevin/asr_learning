@@ -1,0 +1,9 @@
+GMM-HMM模型：
+  HMM 中的隐状态对应的是语音的音素状态
+  HMM 中的状态转移概率  状态对应的是音素， 音素对应的是特征， 所以求状态转移概率就是训练的过程， 使特征转移到另一个特征的概率最大；
+  HMM 中的观察概率      通过GMM来求特征的似然概率；
+  
+  http://pelhans.com/2018/01/13/deepspeech-oldasr/
+  https://blog.csdn.net/qq_37385726/article/details/89217990#HMM%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%B1%BB%E9%97%AE%E9%A2%98%E4%BD%BF%E7%94%A8%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95%E7%9A%84%E5%BA%94%E7%94%A8
+  
+  https://blog.csdn.net/Joyliness/article/details/79603950
