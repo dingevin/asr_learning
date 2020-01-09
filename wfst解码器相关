@@ -1,0 +1,25 @@
+1. 理论知识 
+
+    http://fancyerii.github.io/2019/08/08/wfst-decoder/
+    
+    语音识别WFST核心算法讲解(1. WFST的基本概念)
+ 2. https://blog.csdn.net/fengzhou_/article/details/80776805 
+ 
+ 
+    走进语音识别中的WFST（一）
+ 3. https://blog.csdn.net/l_b_yuan/article/details/50876340
+ 
+ 
+ 
+ 4. https://x-algo.cn/index.php/2017/04/29/speech-recognition-decoder-1-automata-and-semi-circular/
+ 
+ 
+ 
+ 5. https://blog.csdn.net/lbaihao/article/details/84989309
+ 
+ 
+ 6. http://vpanayotov.blogspot.com/2012/06/kaldi-decoding-graph-construction.html
+ 
+ 
+ 
+ 7. https://lab.yungoal.com/courses/course-v1:Microsoft+DEV287x+2018_T2/courseware/0160c9b2-b301-eccd-6a90-05e068bc95d5/0b89ec664c724f449c90d531a7524c59/
